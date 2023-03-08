@@ -1,3 +1,4 @@
 node_modules
 .eslintrc.js
-bin/server.certbin/server.key
+bin/server.cert
+bin/server.key
