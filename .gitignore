@@ -2,3 +2,4 @@ node_modules
 .eslintrc.js
 bin/server.cert
 bin/server.key
+config.js
