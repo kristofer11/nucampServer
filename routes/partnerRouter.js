@@ -73,6 +73,6 @@ partnerRouter.route('/:partnerId')
                 res.json(response);
             })
             .catch(err => next(err));
-    })
+    });
 
 module.exports = partnerRouter; 
